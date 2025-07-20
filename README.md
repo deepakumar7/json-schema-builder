@@ -1,5 +1,7 @@
 #HROne_Project
 <img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/30120239-0b88-4202-b7fd-160beb37ba9d" />
+<img width="1919" height="997" alt="image" src="https://github.com/user-attachments/assets/ace76320-2ab7-4388-81a8-0e4dd5175315" />
+
 
 
 
